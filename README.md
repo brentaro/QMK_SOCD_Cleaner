@@ -104,5 +104,6 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 ``` 
 # Further Reading
 
-[QMK Documentation](https://docs.qmk.fm/#/) 
+[QMK Documentation](https://docs.qmk.fm/#/)
+ 
 [Hitbox: What is SOCD](https://www.hitboxarcade.com/blogs/support/what-is-socd)
